@@ -1,0 +1,2 @@
+https://techainer-packages.s3-ap-southeast-1.amazonaws.com/docbase/docbase-0.1.20-py3-none-any.whl
+xlsxwriter
